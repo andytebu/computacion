@@ -1,2 +1,138 @@
 # computacion
 Clases de computación
+
+# Temario
+- Introducción a Organización de Computadoras
+    - Definición de Computadora
+    - Componentes de una Computadora
+    - Arquitectura de Von Neumann
+- Representación de la Información
+    - Sistemas de Numeración
+    - Sistemaa de Numeración Binario
+    - Representación ASCCII
+- Logica proposicional
+    - Operaciones Lógicas
+    - Tablas de Verdad
+    - Modus Ponens
+    - Modus Tollens
+    - Leyes de Morgan
+- Teoría de números
+    - Números Naturales
+    - Números Enteros
+    - Números Racionales
+    - Números Reales
+    - Números Primos
+    - Divisibilidad
+    - Máximo Común Divisor
+    - Mínimo Común Múltiplo
+    - Primalidad
+    - Teorema Fundamental de la Aritmética
+- Teoría de Conjuntos
+    - Conjuntos
+    - Operaciones con Conjuntos
+    - Propiedades de los Conjuntos
+    - Relaciones
+- Funciones
+    - Definición de Función
+    - Dominio y Rango
+    - Funciones Inyectivas
+    - Funciones Sobreyectivas
+    - Funciones Biyectivas
+    - Composición de Funciones
+    - Funciones Inversas
+- Lenguajes Formales
+    - Lenguajes Regulares
+    - Gramáticas
+    - Autómatas Finitos
+    - Autómatas de Pila
+    - Máquinas de Turing
+- Lenguajes de Programación
+    - Lenguajes de Bajo Nivel
+    - Lenguajes de Alto Nivel
+    - Lenguajes de Programación Orientados a Objetos
+    - Lenguajes de Programación Funcionales
+    - Lenguajes de Programación Lógicos
+    - Lenguajes de Programación Declarativos
+    - Lenguajes de Programación Imperativos
+    - Lenguajes compiles e Interpretados
+    - Compiladores
+    - Intérpretes
+- Variables y Tipos de Datos
+    - Tipos de Datos Primitivos
+    - Tipos de Datos Compuestos
+    - Tipos de Datos Abstractos
+    - Estructuras de Datos
+    - Algoritmos
+- Control de Flujo
+    - Estructuras de Control
+    - Sentencias de Control
+    - Bucles
+    - Condicionales
+- Bucles
+    - Bucles For
+    - Bucles While
+    - Bucles Do While
+    - Bucles For Each
+    - Bucles Anidados
+    - Bucles Infinito
+    - Break
+- Condicionales
+    - If
+    - Else
+    - Switch
+    - Case
+    - Else If
+- Funciones
+    - Definición de Función
+    - Parámetros
+    - Argumentos
+    - Valor de Retorno
+    - Funciones Recursivas
+    - Funciones Lambda
+- Ejercicios:
+|   - Ejercicios de sistemas de numeración
+        - Ejercicio 1: Convertir el número decimal 10 a binario
+        - Ejercicio 2: Convertir el número binario 1010 a decimal
+        - Ejercicio 3: Convertir el número decimal 255 a binario
+        - Ejercicio 4: Convertir el número binario 11111111 a decimal
+        - Ejercicio 5: Convertir el número decimal 100 a binario
+    - Ejercicios de variables
+        - Ejemplos:
+            - Definir una variable de tipo entero y asignarle un valor
+            - Definir una variable de tipo flotante y asignarle un valor
+            - Definir una variable de tipo cadena y asignarle un valor
+            - Definir una variable de tipo booleano y asignarle un valor
+            - Definir una variable de tipo arreglo y asignarle un valor
+            - Definir una variable de tipo objeto y asignarle un valor
+    - Ejercicios de tipos de datos
+        - Ejemplos:
+            - Definir un arreglo de enteros y asignarle valores
+            - Definir un arreglo de flotantes y asignarle valores
+            - Definir un arreglo de cadenas y asignarle valores
+            - Definir un arreglo de booleanos y asignarle valores
+            - Definir un arreglo de objetos y asignarle valores
+    - Ejercicios de estructuras de control
+        - Ejemplos:
+            - Definir una estructura de control if y else
+            - Definir una estructura de control switch y case
+            - Definir una estructura de control for
+            - Definir una estructura de control while
+            - Definir una estructura de control do while
+            - Definir una estructura de control for each
+            - Definir una estructura de control break
+            - Definir una estructura de control continue
+    - Ejercicios de bucles
+        - Ejemplos:
+            - Definir un bucle for y asignarle un valor
+            - Definir un bucle while y asignarle un valor
+            - Definir un bucle do while y asignarle un valor
+            - Definir un bucle for each y asignarle un valor
+            - Definir un bucle anidado y asignarle un valor
+            - Definir un bucle infinito y asignarle un valor
+    - Ejercicios de condicionales
+        - Ejemplos:
+            - Definir un condicional if y else
+            - Definir un condicional switch y case
+            - Definir un condicional else if
+            - Definir un condicional anidado
+
